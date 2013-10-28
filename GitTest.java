@@ -15,5 +15,9 @@ public class GitTest {
 	public static void addNewUser(){
 		System.out.println("Add a new user to the git");
 	}
+	
+	public static void addFetchFunction(){
+		System.out.println("Addd a method for local to fetch");
+	}
 }
 
